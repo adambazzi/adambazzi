@@ -2,7 +2,7 @@ Welcome! 👋
 I am a Software Engineer and am currently looking for opportunities to grow and improve my current skillset.
 
 🛠️ Languages and Tools :
-![image](https://user-images.githubusercontent.com/113320981/230226254-1ca039a4-7d3e-4c5c-aa16-330d0355df6c.png)
+JavaScript  Python  Flask  SQLAlchemy  Express  Sequelize  React  Redux   CSS  HTML  NodeJS  AWS  Git
 
 
 Contact Info:
