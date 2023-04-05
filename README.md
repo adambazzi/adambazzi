@@ -20,7 +20,7 @@ I am a Software Engineer and am currently looking for opportunities to grow and 
 </div>
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clarencema3&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adambazzi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Contact Info: 
 <div id="badges">
