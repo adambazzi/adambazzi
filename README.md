@@ -1,6 +1,7 @@
 ### Welcome! 👋
 
-I am a Software Engineer and am currently looking for opportunities to grow and improve my current skillset. 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=5000&color=FFFFFF&width=1000&lines=Hi+I'm+Adam!+I+am+a+Software+Engineer!)](https://git.io/typing-svg)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
